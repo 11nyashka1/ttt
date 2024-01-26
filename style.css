@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border-radius: 20px;
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 10px;
+}
+header a {
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    border: 3px solid violet;
+    border-radius: 20px;
+    background-color: white;
+    color: orange;
+}
+footer p {
+    border: 3px solid salmon;
+    background-color: salmon;
+}
+nav{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+nav a{
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid rgb(208, 255, 0);
+    background-color: rgb(208, 255, 0);
+}
+.iii{
+    border: 5px solid violet;
+    border-radius: 20px;
+    background-color: violet;
+}
+.rrr{
+    color: blue;
+}
+.qqq{
+    font-family: arial black;
+}
+.www{
+    text-decoration: none;
+    border: 3px solid rgb(29, 29, 107);
+    padding: 5px;
+}
